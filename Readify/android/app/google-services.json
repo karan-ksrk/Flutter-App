@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "682677697332",
+    "firebase_url": "https://readify-310ab.firebaseio.com",
+    "project_id": "readify-310ab",
+    "storage_bucket": "readify-310ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682677697332:android:56148b54ad5c3f2442c361",
+        "android_client_info": {
+          "package_name": "com.ksrk.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682677697332-0vmk06perqaghrem1n577tv086cdn40c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPA5s4ckfhXXDj28meHh5Hm99eR18Q18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682677697332-0vmk06perqaghrem1n577tv086cdn40c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
